@@ -32,5 +32,5 @@ I enjoy problem-solving and building practical applications while continuously i
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Professional Email]
+- LinkedIn: www.linkedin.com/in/jahnaviboddu/
+- Email: jahnaviboddu.dev@gmail.com
